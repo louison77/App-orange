@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/df039b3f-0ab1-4a03-a92c-afd963979d6c/AppServices/subscriptions/df039b3f-0ab1-4a03-a92c-afd963979d6c/resourceGroups/OCD/providers/Microsoft.Web/sites/ProjetOCD",
+    "appService.deploySubpath": "."
+}
